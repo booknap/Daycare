@@ -16,3 +16,7 @@
 - Null Object design pattern: In case a customer input the name of cat that does not exist, the program will return null object to handle error.  
 
 ![Null Object](https://github.com/booknap/Daycare/blob/master/UML/Null.png)
+
+## Author
+
+- Napasai Sutthichutipong 6010545811

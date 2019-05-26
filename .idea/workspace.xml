@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73e742ec-3888-48d4-964b-17ec1fcb1a29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/addPet.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/getName.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/addPet.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/getPet.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/addPet.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/getPet.feature" beforeDir="false" />
-    </list>
+    <list default="true" id="73e742ec-3888-48d4-964b-17ec1fcb1a29" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -465,7 +457,7 @@
       <updated>1558855848598</updated>
       <workItem from="1558855857071" duration="3659000" />
       <workItem from="1558859665043" duration="14352000" />
-      <workItem from="1558879802599" duration="4353000" />
+      <workItem from="1558879802599" duration="4599000" />
     </task>
     <servers />
   </component>
@@ -481,7 +473,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22364000" />
+    <option name="totallyTimeSpent" value="22610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
